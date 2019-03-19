@@ -4,7 +4,7 @@ An android app client application for EasyOrder project which includes Server an
 ![EasyOrder](https://raw.githubusercontent.com/maxmacstn/EasyOrder-Android-Client/master/images/git_header1.png?token=AS27iSJKiGgsbMpqo2Xk1E9-zi4Gvg70ks5aHOYowA%3D%3D)
 
 # What is EasyOrder?
-This project aims to create both client and server application to help restaurant employees keep track of their order. We also provide a dashboard that can be used by employees and customers alike.
+The project aims to create client and server applications to help restaurant employees track their orders. We also provide a dashboard that employees and customers can use.
 
 ## Features
 - Welcome screen for users to enter server's IP address before using it.
